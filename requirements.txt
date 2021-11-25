@@ -1,0 +1,5 @@
+bs4
+streamlit==1.2.0
+requests
+itertools
+random
