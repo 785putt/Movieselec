@@ -272,7 +272,7 @@ if step_ == "Home":
             st.markdown('<h2 style="font-family:times new roman; color:#F8ED62;">List of intellectual movies</h2>', unsafe_allow_html=True)
             movie_imgpos()
         if 'LIGHT-HEARTED' in n_ame.upper():
-            url += 'https://www.imdb.com/list/ls089519405/?ref_=otl_4'
+            url += 'https://www.imdb.com/list/ls004803270/'
             st.markdown('<h2 style="font-family:times new roman; color:#C551F6;">List of animation movies</h2>', unsafe_allow_html=True)
             movie_imgpos()
         if 'ODD' in n_ame.upper():
