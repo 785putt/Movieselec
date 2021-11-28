@@ -2,7 +2,7 @@ If you have pycharm editor (or any other like VSCode, sublime,...) copy & paste 
 NON Commercial uses website
 
 How to use this app
-1. On new page, enter website URL.
+1. On new page, enter website URL: https://movie-moods-app.herokuapp.com
 2. Navigation bar may appear on the left. If not then click the navigation arrow '>' at top left corner.
 3. Options will be display. Choose either one to explore.
 4. Once loaded, click on an central empty bar to select mood (drop bar will appear).
