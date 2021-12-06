@@ -244,7 +244,7 @@ if step_ == "Home":
     if st.button("Recommend / Refresh"):    # condition run once button is click
         st.markdown('#')
         if 'INTENSE' in n_ame.upper():
-            url += 'https://www.imdb.com/list/ls021686578/?page=2'
+            url += 'https://www.imdb.com/list/ls021686578/'
             st.markdown('<h2 style="font-family:times new roman; color:#ED2A30;">List of action movies</h2>', unsafe_allow_html=True)
             movie_imgpos()
         if 'DRAMA' in n_ame.upper():
