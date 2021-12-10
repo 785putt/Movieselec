@@ -9,3 +9,4 @@ How to use this app
 5. Click Recommend/Refresh button below. Wait for few seconds.
 6. Enjoy your selection!
 7. Click on refresh button to reload new movie, or click on navigation arrow to explore again.
+MOBILE ver: https://share.streamlit.io/785putt/movieselector/main/main.py
