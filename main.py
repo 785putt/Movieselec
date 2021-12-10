@@ -7,8 +7,8 @@ import random
 moodslct = open('categorymd')  # opening mood select file
 mooods = list(moodslct)  # turn them into a list to loop through
 url = ''
-
-
+PAGE_CONFIG = {"page_title":"Films selector","page_icon":"🎥","layout":"centered"}
+st.set_page_config(**PAGE_CONFIG)
 def movie_imgpos():
     """Scrapping necessarily information for movie list"""
 
